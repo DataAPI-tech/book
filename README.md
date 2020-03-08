@@ -28,6 +28,11 @@ for i in lia:
 ```
 {% endcode %}
 
+```python
+for i in lia:
+    print(1)
+```
+
 {% hint style="info" %}
 ## 大大
 
