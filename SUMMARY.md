@@ -23,4 +23,4 @@
 
 ## 🐌 Part III 葵花宝典Technology
 
-* [⚠️ 知识产权说明]
+* [⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
