@@ -7,9 +7,9 @@
 
 ## Part I 琅琊榜 Company
 
-* [01-阿里巴巴Alibaba](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+* [01-阿里巴巴 Alibaba](zhe-shi-yi-ge-zu/fubiaoti/README.md)
 
-* [02-字节跳动ByteDance](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+* [02-字节跳动 ByteDance](zhe-shi-yi-ge-zu/fubiaoti/README.md)
 
 * [这是一个新的标题，哈哈哈](zhe-shi-yi-ge-zu/fubiaoti/README.md)
   * [文件组](zhe-shi-yi-ge-zu/fubiaoti/wen-jian-zu.md)
