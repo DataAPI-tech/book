@@ -23,9 +23,6 @@ echo 'You got to trust me on this, I saved the world'
 
 ## 11211
 
-我
-
-
 
 #### 我
 
