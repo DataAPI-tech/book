@@ -5,6 +5,8 @@
 * [更新日志 UpdateNotes](README.md)
 * [我要贡献 Contribute&Donate](README.md)
 
+[⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+
 ## 🐼 Part I 琅琊榜 Company
 
 * [01-阿里巴巴 Alibaba](zhe-shi-yi-ge-zu/fubiaoti/README.md)
@@ -21,6 +23,10 @@
 * [index](zhe-you-shi-yi-ge-zu/index.md)
 * [alibaba](zhe-you-shi-yi-ge-zu/alibaba.md)
 
-## 🐌 Part III 葵花宝典Technology
+## 🐌 Part III 葵花宝典 Technology
+
+* [⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+
+## 🐌 Part IIII 注意事项 Notice
 
 * [⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
