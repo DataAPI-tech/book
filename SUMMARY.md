@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🙉 简介](README.md)
+* [🎯 简介](README.md)
 * [🚀 快速预览](README.md)
 * [🌈 更新日志](README.md)
 * [💌 我要贡献](README.md)
