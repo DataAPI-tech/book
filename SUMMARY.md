@@ -7,10 +7,10 @@
 * [这是一个新的标题，哈哈哈](zhe-shi-yi-ge-zu/fubiaoti/README.md)
   * [文件组](zhe-shi-yi-ge-zu/fubiaoti/wen-jian-zu.md)
   * [🏠](https://luke2020.gitbook.io/dataapi/)
-* [标题1](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+* [标题1](zhe-shi-yi-ge-zu/fubiaoti-1.md)
 
 ## 这又是一个组
 
-* [index](index.md)
+* [index](zhe-you-shi-yi-ge-zu/index.md)
+* [alibaba](zhe-you-shi-yi-ge-zu/alibaba.md)
 
-* [alibaba](alibaba.md)

@@ -2,7 +2,7 @@
 description: 这是描述
 ---
 
-# 这是一个标题随改一改
+# 这是一个标题
 
 $$
 a = 3*3jkdal
@@ -29,7 +29,7 @@ for i in lia:
 {% endcode %}
 
 {% hint style="info" %}
-### 大大
+## 大大
 
 dasasd
 
@@ -88,7 +88,7 @@ $$
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
