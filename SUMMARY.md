@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Readme](README.md)
-* [快速预览 QuickTour](README.md)
-* [更新日志 UpdateNotes](README.md)
-* [我要贡献 Contribute&Donate](README.md)
+* [快 速 预 览](README.md)
+* [更 新 日 志](README.md)
+* [我 要 贡 献](README.md)
 
 [⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
 
@@ -25,7 +25,7 @@
 
 ## 🐌 Part III 葵花宝典 Technology
 
-* [⚠️ 知识产权申明](zhe-shi-yi-ge-zu/fubiaoti/README.md)
+
 
 ## 🐌 Part IIII 注意事项 Notice
 
