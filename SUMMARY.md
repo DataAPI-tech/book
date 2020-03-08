@@ -1,9 +1,9 @@
 # Table of contents
 
-* [🎯 README](README.md)
-* [🚀 快速预览 QuickTour](README.md)
-* [🌈 更新日志 UpdateNotes](README.md)
-* [💌 我要贡献 Contribute&Donate](README.md)
+* [README](README.md)
+* [快速预览 QuickTour](README.md)
+* [更新日志 UpdateNotes](README.md)
+* [我要贡献 Contribute&Donate](README.md)
 
 ## 🐼 Part I 琅琊榜 Company
 
