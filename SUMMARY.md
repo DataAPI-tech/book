@@ -15,7 +15,7 @@
 
 * [01-数据中台 DataAPI](DataAPI.md)
 
-## 🐌 Part III 葵花宝典 Technology
+## 🙉 Part III 葵花宝典 Technology
 
 * [01-数据结构 DataStructure](DataStructure.md)
 
